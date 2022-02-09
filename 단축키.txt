@@ -1,0 +1,15 @@
+#define _CRT_SECURE_NO_WARNINGS
+
+함수정의로 이동 : ctrl
+뒤로 탐색 앞으로 탐색 : ctrl - // ctrl shift -
+Alt 활용 : Alt 화살표 // Alt 드래그
+찾기 : ctrl f // ctrl shift f
+함수명 쉽게 변경하기 : ctrl r + r
+자동 정렬하기 : 범위지정하고 ctrl k + f
+코드 자동 완성 :  Tab
+주석 설정 : 범위 지정 후 ctrl k + c  (설정)
+                                ctrl k + u (해제)
+모든 참조 찾기 : 도구 -> 옵션 -> 키보드 -> 모든참조찾기 -> ctrl shift g
+
+
+MSI MAG274R 144
